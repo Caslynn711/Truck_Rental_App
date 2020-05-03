@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Truck Rental App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint1">Enter Truck Price</string>
+    <string name="hint2">Enter Number of Miles</string>
+    <string name="txtTitle">Trunck Rentals</string>
+    <string name="imgDescription">Moving Truck Images</string>
+    <string name="btnTotal">Get Total</string>
+    <string name="txtPriceDescription">One Day Rental Prices\n$.99 Cents Per Mile\n10ft Truck - $19.99\n17ft Truck - $29.95\n26ft Truck - $39.95</string>
+</resources>
